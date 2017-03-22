@@ -27,15 +27,19 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 </head>
 <body>
 
-    <!-- Particles JS Background -->
-    <div id="particles-js"></div>
-
-<!--<div class="main-w3layouts" id="home">-->
-
 
 	 <!--navigation -->
 			<div class ="top-nav">
 				<nav class="navbar navbar-default navbar-fixed-top">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+							
+						</div>
 						<!-- navbar-header -->
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav navbar-right">
@@ -715,7 +719,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!--contact-->
 	<div class="map">
 		<h4>Find us On google Map</h4>
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5662244.714693903!2d-2.279153484594319!3d46.13545249359953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd54a02933785731%3A0x6bfd3f96c747d9f7!2sFrance!5e0!3m2!1sen!2sin!4v1471606088687" style="border:0" allowfullscreen></iframe>
+		<iframe src="https://www.google.com.ng/maps/place/M.+A.+N.+House/@6.6005917,3.341291,17z/data=!4m8!1m2!2m1!1sMAN+building+Awolowo+Way+Ikeja!3m4!1s0x0:0x9d0ba75390cc7a2f!8m2!3d6.5998114!4d3.3436029" style="border:0" allowfullscreen></iframe>
 	</div>
 	<div class="contact-agile" id="contact">
 		<h3>Contact <span>Us</span></h3>
